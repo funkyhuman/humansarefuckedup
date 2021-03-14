@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Humans Are Fucked Up
 
-You can use the [editor on GitHub](https://github.com/funkyhuman/humansarefuckedup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you're here you're likely curious. This is a place to collect some thoughts and reflections, with luck some patterns will emerge of value to share and discuss.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This phrase is both a chant and a cap out, an acceptance and a dismissal.
 
-### Markdown
+Cause who isn't really?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We all hold this space where we conflict internally and practice congruence with self.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/funkyhuman/humansarefuckedup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Let's explore together?
